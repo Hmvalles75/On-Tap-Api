@@ -35,6 +35,7 @@
     "nodemon": "^1.19.2",
     "objection": "^1.6.9",
     "pg": "^7.12.1",
+    "postgrator-cli": "^3.3.0",
     "sqlite3": "^4.1.0",
     "supertest": "^4.0.2"
   }
