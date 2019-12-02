@@ -2,9 +2,13 @@
 
 <img src="./src/images/screenshot.JPG" alt="On Tap Screenshot" width="auto">
 
-server repo: https://github.com/Hmvalles75/On-Tap-Api
-client repo: https://github.com/Hmvalles75/On-Tap-client
+On Tap is an application that allows the user to see what beers are on tap in every restaurant/bar in Downtown Claremont. It provides you with the restaurants information as well as what beers they have on tap. The user can chose a particular beer to see further detailed information of the chosen beer.
+
 Live app: https://on-tap-client.hmvalles75.now.sh/
+
+server repo: https://github.com/Hmvalles75/On-Tap-Api
+
+client repo: https://github.com/Hmvalles75/On-Tap-client
 
 ## Installation
 
