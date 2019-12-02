@@ -1,6 +1,6 @@
 # On Tap Server
 
-<img src="./images/background1.png" alt="Good Meal" width="auto">
+<img src="./src/images/screenshot.JPG" alt="On Tap Screenshot" width="auto">
 
 server repo: https://github.com/Hmvalles75/On-Tap-server
 client repo: https://github.com/Hmvalles75/On-Tap-client
