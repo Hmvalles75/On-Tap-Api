@@ -5,5 +5,5 @@ module.exports = {
     process.env.DATABASE_URL || "postgresql://postgres@localhost/on_tap",
   TEST_DATABASE_URL:
     process.env.TEST_DATABASE_URL ||
-    "postgresql://postgres@localhost/on_tap_test"
+    "postgresql://postgres@localhost/ontap-test"
 };
